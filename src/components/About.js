@@ -12,4 +12,4 @@ const About = () => {
   )
 }
 
-export default Rainbow(About)
+export default Rainbow(About);
